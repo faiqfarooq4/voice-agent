@@ -1,0 +1,255 @@
+2025-05-16 18:46:48.386 | INFO     | __main__:main:15 - Voice assistant started. Speak to begin.
+2025-05-16 18:46:54.512 | ERROR    | __main__:main:36 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000171E1CD3AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 18:55:39.092 | INFO     | __main__:main:15 - Voice assistant started. Speak to begin.
+2025-05-16 18:55:45.314 | ERROR    | __main__:main:36 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028E7B63E140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 19:31:33.104 | INFO     | __main__:main:15 - Voice assistant started. Speak to begin.
+2025-05-16 19:32:29.199 | INFO     | __main__:main:30 - User input: Nice
+2025-05-16 19:32:29.199 | INFO     | __main__:main:31 - Assistant response: I'm sorry, I encountered an issue. Could you repeat your query? (Stage: Fronter)
+2025-05-16 19:32:29.199 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:32:48.087 | INFO     | __main__:main:30 - User input: 
+2025-05-16 19:32:48.087 | INFO     | __main__:main:31 - Assistant response: Sorry, I didn't catch that. Could you repeat? (Stage: Error)
+2025-05-16 19:32:48.087 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:33:08.891 | INFO     | __main__:main:30 - User input: 
+2025-05-16 19:33:08.891 | INFO     | __main__:main:31 - Assistant response: Sorry, I didn't catch that. Could you repeat? (Stage: Error)
+2025-05-16 19:33:08.891 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:33:26.428 | INFO     | __main__:main:30 - User input: Thank you.
+2025-05-16 19:33:26.430 | INFO     | __main__:main:31 - Assistant response: I'm sorry, I encountered an issue. Could you repeat your query? (Stage: Verifier)
+2025-05-16 19:33:26.431 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:33:43.845 | INFO     | __main__:main:30 - User input: Thank you.
+2025-05-16 19:33:43.845 | INFO     | __main__:main:31 - Assistant response: I'm sorry, I encountered an issue. Could you repeat your query? (Stage: Verifier)
+2025-05-16 19:33:43.845 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:34:01.158 | INFO     | __main__:main:30 - User input: Thank you.
+2025-05-16 19:34:01.159 | INFO     | __main__:main:31 - Assistant response: I'm sorry, I encountered an issue. Could you repeat your query? (Stage: Verifier)
+2025-05-16 19:34:01.160 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:34:20.899 | INFO     | __main__:main:30 - User input: Thank you.
+2025-05-16 19:34:20.899 | INFO     | __main__:main:31 - Assistant response: I'm sorry, I encountered an issue. Could you repeat your query? (Stage: Verifier)
+2025-05-16 19:34:20.899 | ERROR    | src.audio_handler:play_audio:45 - Error playing audio: PyAudio.Stream.write() got an unexpected keyword argument 'exception_on_overflow'
+2025-05-16 19:34:25.095 | INFO     | __main__:main:43 - Shutting down voice assistant.
+2025-05-16 19:52:51.865 | INFO     | __main__:main:13 - Voice assistant started. Speak to begin.
+2025-05-16 19:52:58.141 | ERROR    | __main__:main:32 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002551D1A6260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 19:53:46.338 | INFO     | __main__:main:13 - Voice assistant started. Speak to begin.
+2025-05-16 19:54:00.448 | ERROR    | __main__:main:32 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=10)
+2025-05-16 19:54:22.329 | INFO     | __main__:main:13 - Voice assistant started. Speak to begin.
+2025-05-16 19:54:36.635 | ERROR    | __main__:main:32 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=10)
+2025-05-16 19:55:13.125 | INFO     | __main__:main:13 - Voice assistant started. Speak to begin.
+2025-05-16 19:55:27.944 | ERROR    | __main__:main:32 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=10)
+2025-05-16 19:58:46.392 | INFO     | __main__:main:20 - Voice assistant started. Speak to begin.
+2025-05-16 19:59:05.976 | ERROR    | __main__:main:39 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=15)
+2025-05-16 20:04:23.338 | INFO     | __main__:main:26 - Checking FastAPI server health...
+2025-05-16 20:04:25.459 | INFO     | __main__:main:29 - FastAPI server is running.
+2025-05-16 20:04:25.459 | INFO     | __main__:main:42 - Voice assistant started. Speak to begin.
+2025-05-16 20:04:43.669 | ERROR    | __main__:main:61 - API error: 500 Server Error: Internal Server Error for url: http://localhost:8000/process
+2025-05-16 20:04:43.711 | ERROR    | __main__:main:70 - TTS fallback error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-05-16 20:05:04.921 | ERROR    | __main__:main:61 - API error: 500 Server Error: Internal Server Error for url: http://localhost:8000/process
+2025-05-16 20:05:04.954 | ERROR    | __main__:main:70 - TTS fallback error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-05-16 20:05:23.198 | ERROR    | __main__:main:61 - API error: 500 Server Error: Internal Server Error for url: http://localhost:8000/process
+2025-05-16 20:05:23.204 | ERROR    | __main__:main:70 - TTS fallback error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-05-16 20:05:40.279 | INFO     | __main__:main:73 - Shutting down voice assistant.
+2025-05-16 20:08:04.506 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:08:06.829 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:08:06.912 | INFO     | __main__:main:43 - Voice assistant started. Speak to begin.
+2025-05-16 20:08:31.057 | ERROR    | __main__:main:64 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=20)
+2025-05-16 20:08:58.142 | ERROR    | __main__:main:64 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=20)
+2025-05-16 20:09:05.380 | ERROR    | __main__:main:75 - TTS fallback error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5)
+2025-05-16 20:09:23.860 | INFO     | __main__:main:57 - User input: Thank you.
+2025-05-16 20:09:23.876 | INFO     | __main__:main:58 - Assistant response: Thank you for calling Horizon Telecom. My name is Assistant. May I have your name, please? (Stage: Fronter)
+2025-05-16 20:09:41.292 | INFO     | __main__:main:57 - User input: 
+2025-05-16 20:09:41.292 | INFO     | __main__:main:58 - Assistant response: Sorry, I didn't catch that. Could you repeat? (Stage: Error)
+2025-05-16 20:09:55.995 | INFO     | __main__:main:57 - User input: 
+2025-05-16 20:09:55.995 | INFO     | __main__:main:58 - Assistant response: Sorry, I didn't catch that. Could you repeat? (Stage: Error)
+2025-05-16 20:10:14.332 | INFO     | __main__:main:57 - User input: Thank you.
+2025-05-16 20:10:14.332 | INFO     | __main__:main:58 - Assistant response: Hello, you.. How can I assist you with your telecom needs today? (Stage: Verifier)
+2025-05-16 20:10:40.195 | ERROR    | __main__:main:64 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E458C40A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:10:48.338 | INFO     | __main__:main:79 - Shutting down voice assistant.
+2025-05-16 20:16:42.906 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:16:46.950 | ERROR    | __main__:check_server_health:16 - Server health check failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED4CC7B730>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:16:46.950 | WARNING  | __main__:main:32 - FastAPI server not responding. Retrying in 2 seconds...
+2025-05-16 20:16:53.010 | ERROR    | __main__:check_server_health:16 - Server health check failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED4CCE81F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:16:53.010 | WARNING  | __main__:main:32 - FastAPI server not responding. Retrying in 2 seconds...
+2025-05-16 20:16:59.086 | ERROR    | __main__:check_server_health:16 - Server health check failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED4CC7BB80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:16:59.086 | WARNING  | __main__:main:32 - FastAPI server not responding. Retrying in 2 seconds...
+2025-05-16 20:22:03.398 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:22:05.547 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:22:05.550 | INFO     | __main__:main:43 - Voice assistant started. Initiating outbound call flow.
+2025-05-16 20:22:30.519 | INFO     | __main__:main:72 - User input: Hi, hello.
+2025-05-16 20:22:30.535 | INFO     | __main__:main:73 - Assistant response: I'm sorry, I encountered an issue with the language model. Could you repeat your query? (Stage: Fronter)
+2025-05-16 20:22:46.741 | INFO     | __main__:main:72 - User input: 
+2025-05-16 20:22:46.741 | INFO     | __main__:main:73 - Assistant response: Sorry, I didn't catch that. Could you repeat? (Stage: Error)
+2025-05-16 20:23:02.496 | INFO     | __main__:main:72 - User input: Thank you.
+2025-05-16 20:23:02.496 | INFO     | __main__:main:73 - Assistant response: I'm sorry, I encountered an issue with the language model. Could you repeat your query? (Stage: Fronter)
+2025-05-16 20:23:18.565 | INFO     | __main__:main:93 - Shutting down voice assistant.
+2025-05-16 20:37:06.629 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:37:08.684 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:37:08.684 | INFO     | __main__:main:43 - Voice assistant started. Initiating outbound call flow.
+2025-05-16 20:37:13.121 | INFO     | src.audio_handler:play_audio:49 - Playing audio...
+2025-05-16 20:37:15.400 | INFO     | src.audio_handler:play_audio:59 - Audio playback completed.
+2025-05-16 20:37:15.400 | INFO     | __main__:main:56 - Played initial prompt.
+2025-05-16 20:37:15.676 | INFO     | src.audio_handler:capture_audio:21 - Capturing audio...
+2025-05-16 20:38:19.596 | INFO     | src.audio_handler:capture_audio:41 - Captured audio length: 2043904 bytes
+2025-05-16 20:38:51.656 | ERROR    | __main__:main:79 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)
+2025-05-16 20:38:55.034 | INFO     | src.audio_handler:play_audio:49 - Playing audio...
+2025-05-16 20:38:56.498 | INFO     | src.audio_handler:play_audio:59 - Audio playback completed.
+2025-05-16 20:38:56.795 | INFO     | src.audio_handler:capture_audio:21 - Capturing audio...
+2025-05-16 20:39:05.555 | INFO     | src.audio_handler:capture_audio:41 - Captured audio length: 278528 bytes
+2025-05-16 20:39:13.303 | INFO     | __main__:main:73 - User input: Hello
+2025-05-16 20:39:13.304 | INFO     | __main__:main:74 - Assistant response: I'm sorry, I encountered an issue with the language model. Could you repeat your query? (Stage: Fronter)
+2025-05-16 20:39:13.305 | INFO     | src.audio_handler:play_audio:49 - Playing audio...
+2025-05-16 20:39:15.290 | INFO     | src.audio_handler:play_audio:59 - Audio playback completed.
+2025-05-16 20:39:15.503 | INFO     | src.audio_handler:capture_audio:21 - Capturing audio...
+2025-05-16 20:39:21.301 | INFO     | src.audio_handler:capture_audio:41 - Captured audio length: 184320 bytes
+2025-05-16 20:39:23.338 | INFO     | __main__:main:94 - Shutting down voice assistant.
+2025-05-16 20:46:50.610 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:46:52.689 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:46:52.691 | INFO     | __main__:main:43 - Voice assistant started. Initiating outbound call flow.
+2025-05-16 20:46:56.647 | INFO     | src.audio_handler:play_audio:61 - Playing audio...
+2025-05-16 20:46:58.617 | INFO     | src.audio_handler:play_audio:71 - Audio playback completed.
+2025-05-16 20:46:58.618 | INFO     | __main__:main:56 - Played initial prompt.
+2025-05-16 20:46:58.902 | INFO     | src.audio_handler:capture_audio:23 - Capturing audio...
+2025-05-16 20:47:08.834 | INFO     | __main__:main:92 - Shutting down voice assistant.
+2025-05-16 20:47:13.364 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:47:17.432 | ERROR    | __main__:check_server_health:16 - Server health check failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B54A65C7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:47:17.432 | WARNING  | __main__:main:32 - FastAPI server not responding. Retrying in 2 seconds...
+2025-05-16 20:48:02.601 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:48:04.688 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:48:04.689 | INFO     | __main__:main:43 - Voice assistant started. Initiating outbound call flow.
+2025-05-16 20:48:09.467 | INFO     | src.audio_handler:play_audio:61 - Playing audio...
+2025-05-16 20:48:11.452 | INFO     | src.audio_handler:play_audio:71 - Audio playback completed.
+2025-05-16 20:48:11.453 | INFO     | __main__:main:56 - Played initial prompt.
+2025-05-16 20:48:11.711 | INFO     | src.audio_handler:capture_audio:23 - Capturing audio...
+2025-05-16 20:48:31.473 | INFO     | src.audio_handler:capture_audio:43 - Captured audio length: 630784 bytes
+2025-05-16 20:49:03.548 | ERROR    | __main__:main:77 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)
+2025-05-16 20:49:06.811 | INFO     | src.audio_handler:play_audio:61 - Playing audio...
+2025-05-16 20:49:08.305 | INFO     | src.audio_handler:play_audio:71 - Audio playback completed.
+2025-05-16 20:49:08.507 | INFO     | src.audio_handler:capture_audio:23 - Capturing audio...
+2025-05-16 20:49:26.481 | INFO     | src.audio_handler:capture_audio:43 - Captured audio length: 573440 bytes
+2025-05-16 20:49:48.819 | ERROR    | __main__:main:77 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002266890D390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:50:11.251 | ERROR    | __main__:main:88 - TTS fallback error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /tts (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002266890DAB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:50:34.574 | ERROR    | __main__:main:88 - TTS fallback error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /tts (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002266890E4A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:50:57.905 | ERROR    | __main__:main:88 - TTS fallback error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /tts (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002266890EE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:50:59.104 | INFO     | src.audio_handler:capture_audio:23 - Capturing audio...
+2025-05-16 20:51:11.908 | INFO     | src.audio_handler:capture_audio:43 - Captured audio length: 407552 bytes
+2025-05-16 20:51:34.296 | ERROR    | __main__:main:77 - API error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /process (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002266890EB60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-16 20:51:56.625 | INFO     | __main__:main:92 - Shutting down voice assistant.
+2025-05-16 20:53:51.535 | INFO     | src.audio_handler:__init__:14 - Available audio devices:
+2025-05-16 20:53:51.537 | INFO     | src.audio_handler:__init__:17 - Device 0: Microsoft Sound Mapper - Input, Output Channels: 0
+2025-05-16 20:53:51.538 | INFO     | src.audio_handler:__init__:17 - Device 1: Microphone Array (Realtek High , Output Channels: 0
+2025-05-16 20:53:51.539 | INFO     | src.audio_handler:__init__:17 - Device 2: Microsoft Sound Mapper - Output, Output Channels: 2
+2025-05-16 20:53:51.540 | INFO     | src.audio_handler:__init__:17 - Device 3: Speaker/HP (Realtek High Defini, Output Channels: 2
+2025-05-16 20:53:51.540 | INFO     | src.audio_handler:__init__:17 - Device 4: Primary Sound Capture Driver, Output Channels: 0
+2025-05-16 20:53:51.541 | INFO     | src.audio_handler:__init__:17 - Device 5: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 20:53:51.541 | INFO     | src.audio_handler:__init__:17 - Device 6: Primary Sound Driver, Output Channels: 2
+2025-05-16 20:53:51.543 | INFO     | src.audio_handler:__init__:17 - Device 7: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 20:53:51.543 | INFO     | src.audio_handler:__init__:17 - Device 8: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 20:53:51.544 | INFO     | src.audio_handler:__init__:17 - Device 9: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 20:53:51.546 | INFO     | src.audio_handler:__init__:17 - Device 10: Microphone Array (Realtek HD Audio Mic input), Output Channels: 0
+2025-05-16 20:53:51.547 | INFO     | src.audio_handler:__init__:17 - Device 11: Speakers (Realtek HD Audio output), Output Channels: 2
+2025-05-16 20:53:51.547 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 20:53:53.638 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 20:53:53.639 | INFO     | __main__:main:43 - Voice assistant started. Initiating outbound call flow.
+2025-05-16 20:53:58.861 | INFO     | src.audio_handler:play_audio:76 - Playing audio...
+2025-05-16 20:53:58.861 | INFO     | src.audio_handler:play_audio:79 - Using output device index: 3
+2025-05-16 20:54:00.851 | INFO     | src.audio_handler:play_audio:90 - Audio playback completed.
+2025-05-16 20:54:00.851 | INFO     | __main__:main:56 - Played initial prompt.
+2025-05-16 20:54:01.151 | INFO     | src.audio_handler:capture_audio:28 - Capturing audio...
+2025-05-16 20:54:23.339 | INFO     | src.audio_handler:capture_audio:48 - Captured audio length: 708608 bytes
+2025-05-16 20:54:55.389 | ERROR    | __main__:main:77 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)
+2025-05-16 20:55:00.643 | INFO     | src.audio_handler:play_audio:76 - Playing audio...
+2025-05-16 20:55:00.646 | INFO     | src.audio_handler:play_audio:79 - Using output device index: 3
+2025-05-16 20:55:01.909 | INFO     | src.audio_handler:play_audio:90 - Audio playback completed.
+2025-05-16 20:55:02.356 | INFO     | __main__:main:92 - Shutting down voice assistant.
+2025-05-16 21:00:52.913 | INFO     | src.audio_handler:__init__:11 - Available audio devices:
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 0: Microsoft Sound Mapper - Input, Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 1: Microphone Array (Realtek High , Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 2: Microsoft Sound Mapper - Output, Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 3: Speaker/HP (Realtek High Defini, Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 4: Primary Sound Capture Driver, Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 5: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 6: Primary Sound Driver, Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 7: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 8: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 9: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 10: Microphone Array (Realtek HD Audio Mic input), Output Channels: 0
+2025-05-16 21:00:52.929 | INFO     | src.audio_handler:__init__:14 - Device 11: Speakers (Realtek HD Audio output), Output Channels: 2
+2025-05-16 21:00:52.929 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 21:00:55.090 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 21:00:55.090 | INFO     | __main__:main:43 - Voice assistant started. Initiating real-time conversation.
+2025-05-16 21:00:58.617 | INFO     | src.audio_handler:play_audio:53 - Playing audio...
+2025-05-16 21:00:58.617 | INFO     | src.audio_handler:play_audio:56 - Attempting playback on device index: 3
+2025-05-16 21:01:00.901 | INFO     | src.audio_handler:play_audio:67 - Audio playback completed.
+2025-05-16 21:01:01.189 | INFO     | src.audio_handler:capture_audio:25 - Capturing audio...
+2025-05-16 21:01:18.696 | INFO     | src.audio_handler:capture_audio:45 - Captured audio length: 559104 bytes
+2025-05-16 21:01:50.793 | ERROR    | __main__:main:74 - API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)
+2025-05-16 21:01:55.071 | INFO     | src.audio_handler:play_audio:53 - Playing audio...
+2025-05-16 21:01:55.071 | INFO     | src.audio_handler:play_audio:56 - Attempting playback on device index: 3
+2025-05-16 21:01:56.597 | INFO     | src.audio_handler:play_audio:67 - Audio playback completed.
+2025-05-16 21:01:56.793 | INFO     | src.audio_handler:capture_audio:25 - Capturing audio...
+2025-05-16 21:02:08.528 | INFO     | __main__:main:89 - Shutting down voice assistant.
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:13 - Available audio devices:
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 0: Microsoft Sound Mapper - Input, Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 1: Microphone Array (Realtek High , Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 2: Microsoft Sound Mapper - Output, Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 3: Speaker/HP (Realtek High Defini, Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 4: Primary Sound Capture Driver, Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 5: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 6: Primary Sound Driver, Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 7: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 8: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 9: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 10: Microphone Array (Realtek HD Audio Mic input), Output Channels: 0
+2025-05-16 22:13:01.183 | INFO     | src.audio_handler:__init__:17 - Device 11: Speakers (Realtek HD Audio output), Output Channels: 2
+2025-05-16 22:13:01.183 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 22:13:03.283 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 22:13:03.299 | INFO     | __main__:main:43 - Voice assistant started. Initiating real-time conversation.
+2025-05-16 22:13:06.801 | INFO     | src.audio_handler:play_audio:62 - Audio buffer size: 58176 bytes
+2025-05-16 22:13:13.447 | INFO     | src.audio_handler:play_audio:68 - MP3 to WAV conversion successful
+2025-05-16 22:13:13.447 | INFO     | src.audio_handler:play_audio:75 - Attempting playback on device index: 2
+2025-05-16 22:13:21.227 | INFO     | src.audio_handler:play_audio:86 - Audio playback completed.
+2025-05-16 22:13:21.653 | INFO     | src.audio_handler:capture_audio:30 - Capturing audio...
+2025-05-16 22:13:29.335 | INFO     | src.audio_handler:capture_audio:54 - Captured audio length: 122880 bytes
+2025-05-16 22:13:40.394 | INFO     | src.audio_handler:play_audio:62 - Audio buffer size: 106560 bytes
+2025-05-16 22:13:40.565 | INFO     | src.audio_handler:play_audio:68 - MP3 to WAV conversion successful
+2025-05-16 22:13:40.566 | INFO     | src.audio_handler:play_audio:75 - Attempting playback on device index: 2
+2025-05-16 22:13:54.351 | INFO     | src.audio_handler:play_audio:86 - Audio playback completed.
+2025-05-16 22:13:54.525 | INFO     | src.audio_handler:capture_audio:30 - Capturing audio...
+2025-05-16 22:14:32.856 | INFO     | __main__:main:86 - Shutting down voice assistant.
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:14 - Available audio devices:
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 0: Microsoft Sound Mapper - Input, Output Channels: 0
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 1: Microphone Array (Realtek High , Output Channels: 0
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 2: Microsoft Sound Mapper - Output, Output Channels: 2
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 3: Speaker/HP (Realtek High Defini, Output Channels: 2
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 4: Primary Sound Capture Driver, Output Channels: 0
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 5: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 6: Primary Sound Driver, Output Channels: 2
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 7: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 22:28:24.239 | INFO     | src.audio_handler:__init__:18 - Device 8: Speaker/HP (Realtek High Definition Audio), Output Channels: 2
+2025-05-16 22:28:24.255 | INFO     | src.audio_handler:__init__:18 - Device 9: Microphone Array (Realtek High Definition Audio), Output Channels: 0
+2025-05-16 22:28:24.255 | INFO     | src.audio_handler:__init__:18 - Device 10: Microphone Array (Realtek HD Audio Mic input), Output Channels: 0
+2025-05-16 22:28:24.255 | INFO     | src.audio_handler:__init__:18 - Device 11: Speakers (Realtek HD Audio output), Output Channels: 2
+2025-05-16 22:28:24.255 | INFO     | __main__:main:27 - Checking FastAPI server health...
+2025-05-16 22:28:26.323 | INFO     | __main__:main:30 - FastAPI server is running.
+2025-05-16 22:28:26.323 | INFO     | __main__:main:43 - Voice assistant started. Initiating real-time conversation.
+2025-05-16 22:28:26.323 | INFO     | src.audio_handler:play_audio:59 - Playing audio for text: Hello, this is Horizon Telecom. My name is Assistant. May I have your name, please?
+2025-05-16 22:28:26.323 | INFO     | src.audio_handler:play_audio:62 - Attempting playback on device index: 2
+2025-05-16 22:28:33.239 | INFO     | src.audio_handler:play_audio:66 - Audio playback completed.
+2025-05-16 22:28:33.512 | INFO     | src.audio_handler:capture_audio:31 - Capturing audio...
+2025-05-16 22:28:43.991 | INFO     | src.audio_handler:capture_audio:51 - Captured audio length: 186368 bytes
+2025-05-16 22:28:50.694 | INFO     | src.audio_handler:play_audio:59 - Playing audio for text: Thank you, Fight. I’m reaching out to ensure you’re getting the best from our telecom services. Are you interested in exploring our latest plans or resolving any issues with your account?
+2025-05-16 22:28:50.694 | INFO     | src.audio_handler:play_audio:62 - Attempting playback on device index: 2
+2025-05-16 22:29:00.974 | INFO     | src.audio_handler:play_audio:66 - Audio playback completed.
+2025-05-16 22:29:01.204 | INFO     | src.audio_handler:capture_audio:31 - Capturing audio...
+2025-05-16 22:29:07.646 | INFO     | src.audio_handler:capture_audio:51 - Captured audio length: 100352 bytes
+2025-05-16 22:29:10.762 | INFO     | src.audio_handler:play_audio:59 - Playing audio for text: Sorry, I didn't catch that. Could you repeat?
+2025-05-16 22:29:10.762 | INFO     | src.audio_handler:play_audio:62 - Attempting playback on device index: 2
+2025-05-16 22:29:14.607 | INFO     | src.audio_handler:play_audio:66 - Audio playback completed.
+2025-05-16 22:29:14.793 | INFO     | src.audio_handler:capture_audio:31 - Capturing audio...
+2025-05-16 22:29:20.053 | INFO     | src.audio_handler:capture_audio:51 - Captured audio length: 92160 bytes
+2025-05-16 22:29:25.990 | INFO     | src.audio_handler:play_audio:59 - Playing audio for text: Great, Fight. It sounds like you’re interested in interacted.. Could you provide your account ID or let me know if this is about billing, technical support, or a new plan?
+2025-05-16 22:29:25.990 | INFO     | src.audio_handler:play_audio:62 - Attempting playback on device index: 2
+2025-05-16 22:29:35.906 | INFO     | src.audio_handler:play_audio:66 - Audio playback completed.
+2025-05-16 22:29:36.103 | INFO     | src.audio_handler:capture_audio:31 - Capturing audio...
+2025-05-16 22:29:45.182 | INFO     | src.audio_handler:capture_audio:51 - Captured audio length: 145408 bytes
+2025-05-16 22:29:48.782 | INFO     | src.audio_handler:play_audio:59 - Playing audio for text: Great, Fight. It sounds like you’re interested in interacted.. Could you provide your account ID or let me know if this is about billing, technical support, or a new plan?
+2025-05-16 22:29:48.782 | INFO     | src.audio_handler:play_audio:62 - Attempting playback on device index: 2
+2025-05-16 22:29:58.517 | INFO     | src.audio_handler:play_audio:66 - Audio playback completed.
+2025-05-16 22:29:58.696 | INFO     | src.audio_handler:capture_audio:31 - Capturing audio...
+2025-05-16 22:30:03.696 | INFO     | __main__:main:71 - Shutting down voice assistant.
